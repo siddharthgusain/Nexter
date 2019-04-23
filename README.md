@@ -1,2 +1,3 @@
 # Nexter
-## A home booking website UI made using HTML5,CSS3,SASS
+## A home booking website UI.
+## Teck stack: HTML5,CSS3,SASS
